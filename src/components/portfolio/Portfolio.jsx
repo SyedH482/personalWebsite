@@ -14,7 +14,9 @@ export default function Portfolio() {
 
       <div className="container">
         <div className="item">
-          <img src="" alt=""/>
+          <a href="https://github.com/SyedH482/research">
+          <img src="../../assets/chrome-extension.png" alt=""/>
+          </a>
           <h3>Chrome Extension</h3>
         </div>
       </div>
