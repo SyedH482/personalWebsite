@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://syedhussaini.onrender.com).
 
+Here's the link to the website: [website](https://syedhussainisportfolio.netlify.app/).
+
+This website was made using content from this youtube video and then modified for my personal website!: https://www.youtube.com/watch?v=7WwtzsSHdpI
+
+
 ## Available Scripts
 
 In the project directory, you can run:
