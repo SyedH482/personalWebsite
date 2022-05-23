@@ -9,7 +9,7 @@ export default function Topbar({menuOpen, setMenuOpen}) {
                 <a href="#introPart" className="logo">Portfolio.</a>
                 <div className="itemContainer">
                     <Person className="icon"/>
-                    <span> +1-224-532-1569</span>
+                    <span> +*-***-***-****</span>
                 </div>
                 <div className="itemContainer">
                     <Mail className="icon"/>
